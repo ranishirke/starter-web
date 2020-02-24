@@ -1,1 +1,2 @@
 example of example branch
+we are in mybranch for checking rebase example
